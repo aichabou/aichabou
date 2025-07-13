@@ -1,4 +1,4 @@
-<h1 align="center">Hello👋, je suis Aicha</h1>
+<h2 align="center">Hello👋, je suis Aicha</h2>
 <h3 align="center">Développeuse Full-stack de bout en bout 🌿 J’aime construire des outils simples, intuitifs et durables, qui ont un vrai impact au quotidien.</h3>
 
 
