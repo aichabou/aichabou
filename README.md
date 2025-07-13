@@ -1,7 +1,6 @@
 <h1 align="center">Hello👋, je suis Aicha</h1>
 <h3 align="center">Développeuse Full-stack de bout en bout 🌿 J’aime construire des outils simples, intuitifs et durables, qui ont un vrai impact au quotidien.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aichabou" alt="aichabou" /></a> </p>
 
 - 🔭 Je travaille actuellement sur **Un portfolio style carnet japonais ✍️ + 3 apps fullstack pour prouver mes compétences**
 
